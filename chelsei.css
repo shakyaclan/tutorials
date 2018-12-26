@@ -1,0 +1,46 @@
+.keeper{
+	color: green;
+}
+.defender{
+	color: blue;
+}
+.midfielder{
+	color: white;
+}
+.forward{
+	color: red;
+}	
+#content {
+	background-image: url("chelseastadium.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+#login{
+	float: right;
+}
+body {
+	background: grey;
+}
+a{
+	text-decoration: none;
+}
+#players {
+	
+	float :left;
+	font-size: 150%;
+	}
+#video {
+	
+	float : right;
+	padding : 60px 500px 60px 60px;
+	}
+#home{
+	text-align: center;
+	}
+
+#foot {
+	clear : both;
+	text-align : right;
+
+}
